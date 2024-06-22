@@ -1,6 +1,10 @@
+import Home from "./Home";
 function App() {
   return (
-   <h1>ReactApp</h1>
+    <>
+      <Home />
+     <h1>ReactApp</h1>
+    </>
   );
 }
 

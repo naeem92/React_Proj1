@@ -1,6 +1,11 @@
+import Naeem from "./naeem"
 function App() {
   return (
-   <h1>React with Vite | NAEEM</h1>
+  <> 
+    <Naeem />
+    <h3>Hello World!</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae laudantium earum voluptates sit dolor fuga ipsa labore molestias consequuntur blanditiis.</p>    
+  </>
   )
 }
 
